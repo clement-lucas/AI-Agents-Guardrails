@@ -1,0 +1,44 @@
+openapi: 3.0.3
+info:
+  title: Personal Agent Mesh Tools
+  version: "1.0.0"
+servers:
+  - url: https://example
+paths:
+  /calendar/freebusy:
+    post:
+      operationId: calendar_freebusy
+      summary: Get free/busy blocks
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [caller_oid, purpose, range_start, range_end, user_delegated_jwt]
+              properties:
+                caller_oid: { type: string }
+                purpose: { type: string, enum: [meeting_scheduling] }
+                range_start: { type: string }
+                range_end: { type: string }
+                user_delegated_jwt: { type: string }
+      responses:
+        "200": { description: OK }
+  /projects/share:
+    post:
+      operationId: project_info_share
+      summary: Project names shared
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [caller_oid, purpose, user_delegated_jwt]
+              properties:
+                caller_oid: { type: string }
+                purpose: { type: string, enum: [project_collab] }
+                include_roles: { type: boolean, default: false }
+                user_delegated_jwt: { type: string }
+      responses:
+        "200": { description: OK }

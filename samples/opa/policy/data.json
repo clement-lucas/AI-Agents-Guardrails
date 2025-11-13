@@ -1,0 +1,18 @@
+{
+  "tool_policies": {
+    "calendar_freebusy": {
+      "allow_apps": [
+        "<SCHEDULER_AGENT_APP_ID>",
+        "<HR_AGENT_APP_ID>"
+      ],
+      "deny_apps": []
+    },
+    "project_info_share": {
+      "allow_apps": [
+        "<PMO_AGENT_APP_ID>",
+        "<HR_AGENT_APP_ID>"
+      ],
+      "deny_apps": []
+    }
+  }
+}

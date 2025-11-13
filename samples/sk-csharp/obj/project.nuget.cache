@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "LTkkzNlSC+k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cllucas\\OneDrive - Microsoft\\Microsoft Work\\Sample applications\\AI-Agents-Guardrails\\samples\\sk-csharp\\sk-sample-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cllucas\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.17\\azure.ai.openai.1.0.0-beta.17.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\azure.core\\1.39.0\\azure.core.1.39.0.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.identity.client\\4.61.3\\microsoft.identity.client.4.61.3.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.semantickernel\\1.16.1\\microsoft.semantickernel.1.16.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.semantickernel.abstractions\\1.16.1\\microsoft.semantickernel.abstractions.1.16.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.semantickernel.connectors.openai\\1.16.1\\microsoft.semantickernel.connectors.openai.1.16.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\microsoft.semantickernel.core\\1.16.1\\microsoft.semantickernel.core.1.16.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
+    "C:\\Users\\cllucas\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
