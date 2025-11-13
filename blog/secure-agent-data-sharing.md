@@ -230,7 +230,9 @@ Emit structured logs with: `(tool, caller_app_id, caller_oid, purpose, decision,
 
 ## Samples & Repo
 
-This post includes runnable snippets you can copy:
+The following repo includes samples that you can copy in to your own projects for testing. 
+
+https://github.com/clement-lucas/AI-Agents-Guardrails
 
 ```
 samples/
