@@ -212,7 +212,7 @@ var result = await kernel.InvokeAsync("MeshTools","calendar_freebusy", args);
 - **ABAC** checks before returning any entity.
 - **Throttling & quotas** per caller app.
 
-
+---
 
 ## Quickstart: OPA (policy decision point)
 
